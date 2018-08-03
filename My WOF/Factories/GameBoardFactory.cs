@@ -7,7 +7,7 @@ namespace My_WOF
     class GameBoardFactory
     {
         public GameBoardFactory() { }
-        public IBoard createGameBoard( string boardOption )
+        public IBoard CreateGameBoard( string boardOption )
         {
             if( boardOption == "wof" )
             {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace My_WOF
+namespace GameSuite
 {
     abstract class Game
     {

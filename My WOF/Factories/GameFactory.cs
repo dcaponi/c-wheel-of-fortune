@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace My_WOF.Factories
+namespace GameSuite
 {
     class GameFactory
     {

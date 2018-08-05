@@ -1,7 +1,7 @@
 ﻿using System;
-using My_WOF.Factories;
+using GameSuite;
 
-namespace My_WOF
+namespace GameSuite
 {
     class Program
     {

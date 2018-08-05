@@ -2,16 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace My_WOF
+namespace GameSuite
 {
     class WoFGame : Game
     {
-        private readonly string gameName = "wof";
-        private readonly int maxPlayers = 3;
         private WoFBoard board;
 
         public WoFGame()
         {
+            gameName = "wof";
+            maxPlayers = 3;
             createUsers(maxPlayers);
             startGame();
         }

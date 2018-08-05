@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 
 
-namespace My_WOF.PlayStrategies
+namespace GameSuite
 {
     class GuessText : IPlayable
     {

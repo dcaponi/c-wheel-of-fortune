@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-docapo\\source\\repos\\My WOF\\My WOF\\My WOF.csproj",
-      "projectName": "My WOF",
-      "projectPath": "C:\\Users\\v-docapo\\source\\repos\\My WOF\\My WOF\\My WOF.csproj",
+      "projectUniqueName": "C:\\Users\\v-docapo\\source\\repos\\My WOF\\My WOF\\GameSuite.csproj",
+      "projectName": "GameSuite",
+      "projectPath": "C:\\Users\\v-docapo\\source\\repos\\My WOF\\My WOF\\GameSuite.csproj",
       "packagesPath": "C:\\Users\\v-docapo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\v-docapo\\source\\repos\\My WOF\\My WOF\\obj\\",
       "projectStyle": "PackageReference",

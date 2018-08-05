@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using My_WOF.PlayStrategies;
 
-namespace My_WOF
+namespace GameSuite
 {
     class WoFPlayer : User
     {

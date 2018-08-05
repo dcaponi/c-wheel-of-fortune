@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 
-namespace My_WOF
+namespace GameSuite
 {
     class WoFBoard : IBoard
     {

@@ -1,0 +1,10 @@
+C:\Users\v-docapo\source\repos\My WOF\My WOF\bin\Debug\netcoreapp2.0\GameSuite.deps.json
+C:\Users\v-docapo\source\repos\My WOF\My WOF\bin\Debug\netcoreapp2.0\GameSuite.runtimeconfig.json
+C:\Users\v-docapo\source\repos\My WOF\My WOF\bin\Debug\netcoreapp2.0\GameSuite.runtimeconfig.dev.json
+C:\Users\v-docapo\source\repos\My WOF\My WOF\bin\Debug\netcoreapp2.0\GameSuite.dll
+C:\Users\v-docapo\source\repos\My WOF\My WOF\bin\Debug\netcoreapp2.0\GameSuite.pdb
+C:\Users\v-docapo\source\repos\My WOF\My WOF\obj\Debug\netcoreapp2.0\GameSuite.csproj.CoreCompileInputs.cache
+C:\Users\v-docapo\source\repos\My WOF\My WOF\obj\Debug\netcoreapp2.0\GameSuite.AssemblyInfoInputs.cache
+C:\Users\v-docapo\source\repos\My WOF\My WOF\obj\Debug\netcoreapp2.0\GameSuite.AssemblyInfo.cs
+C:\Users\v-docapo\source\repos\My WOF\My WOF\obj\Debug\netcoreapp2.0\GameSuite.dll
+C:\Users\v-docapo\source\repos\My WOF\My WOF\obj\Debug\netcoreapp2.0\GameSuite.pdb
